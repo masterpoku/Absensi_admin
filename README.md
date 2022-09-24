@@ -17,7 +17,9 @@
 - Vscode
 - RFID RC522
 - JUMPER / KABEL
-
+# Copyrigth
+- Auliya Wafi 
+- wafibaran@gmail.com
 
 # SCREENSHOT
 ![WhatsApp Image 2022-09-24 at 11 23 57](https://user-images.githubusercontent.com/17979384/192079912-d9db3ffa-6757-4714-ba70-4b77eaabb4c0.jpeg)
